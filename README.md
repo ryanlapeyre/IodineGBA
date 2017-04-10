@@ -57,7 +57,7 @@ Screenshots
 
 * **Earthworm Jim:**
 
-    ![Earthworm Jim](http://i.imgur.com/Ip3MHzmh.png “Earthworm Jim”)
+    ![](http://i.imgur.com/Ip3MHzmh.png “Earthworm Jim”)
 
 * **Advance Wars:**
 
