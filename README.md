@@ -69,7 +69,7 @@ Screenshots
 
 * **Golden Sun:**
 
-    ![Golden Sun](http://i.imgur.com/EctuZxo.png “Golden Sun”)
+    ![Golden Sun](http://i.imgur.com/EctuZxo.png)
 
 * **Game & Watch Gallery 4:**
 
