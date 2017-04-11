@@ -45,36 +45,36 @@ Screenshots
 
 * **Super Mario Advance:**
 
-    ![Super Mario Advance](http://i.imgur.com/ewhtAJg.png)
+    ![Super Mario Advance](http://i.imgur.com/ewhtAJg.png "Super Mario Advance")
 
 * **Mario & Luigi Superstar Saga:**
 
-    ![Mario & Luigi Superstar Saga](http://i.imgur.com/Do8TbsMh.png)
+    ![Mario & Luigi Superstar Saga](http://i.imgur.com/Do8TbsMh.png "Mario & Luigi Superstar Saga")
 
 * **Mario Kart Advance:**
 
-    ![Mario Kart Advance](http://i.imgur.com/37xx3yPh.png)
+    ![Mario Kart Advance](http://i.imgur.com/37xx3yPh.png "Mario Kart Advance")
 
 * **Earthworm Jim:**
 
-    ![Earthworm Jim](http://i.imgur.com/Ip3MHzmh.png)
+    ![Earthworm Jim](http://i.imgur.com/Ip3MHzmh.png "Earthworm Jim")
 
 * **Advance Wars:**
 
-    ![Advance Wars](http://i.imgur.com/akKzA97h.png )
+    ![Advance Wars](http://i.imgur.com/akKzA97h.png "Advance Wars")
 
 * **Wario Land 4:**
 
-    ![Wario Land 4](http://i.imgur.com/eaDqCxuh.png )
+    ![Wario Land 4](http://i.imgur.com/eaDqCxuh.png "Wario Land 4")
 
 * **Golden Sun:**
 
-    ![Golden Sun](http://i.imgur.com/EctuZxo.png)
+    ![Golden Sun](http://i.imgur.com/EctuZxo.png "Golden Sun")
 
 * **Game & Watch Gallery 4:**
 
-    ![Game & Watch Gallery 4](http://i.imgur.com/awLMWsIh.png )
+    ![Game & Watch Gallery 4](http://i.imgur.com/awLMWsIh.png "Game & Watch Gallery 4")
 
 * **GBA BIOS:**
 
-    ![GBA BIOS](http://i.imgur.com/kzxGoAHh.png )
+    ![GBA BIOS](http://i.imgur.com/kzxGoAHh.png "GBA BIOS")
